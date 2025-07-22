@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "新手友善的 Vitepress 模板 🐥",
   description: "👶👶 提供新手快速建立的 Vitepress 模板 👶👶",
-  base: "/vitepress-templating/", // 👈👈👈 這個非常需要設定喔！！
+  base: "/Yu-Blog/", // 👈👈👈 這個非常需要設定喔！！
   themeConfig: {
     
     // 👇👇👇 查看 https://vitepress.dev/reference/default-theme-nav
