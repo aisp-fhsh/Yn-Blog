@@ -25,8 +25,8 @@ export default defineConfig({
 
     // 👇👇👇 查看 https://vitepress.dev/reference/default-theme-config#sociallinks
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/aisp-fhsh/vitepress-templating' },
-      { icon: { svg: "<img src='New%20AISP%20Logo%20Icon.svg' alt='AISP Logo' width='80%' height='80%' />" }, link: 'https://security-program.fhsh.taipei'}
+      { icon: 'github', link: 'https://github.com/aisp-fhsh/Yn-Blog.git' },
+      { icon: { svg: "<img src='https://www.google.com/imgres?q=stitch&imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2Fe1%2F1d%2Ffb%2Fe11dfbc63c8652f7d202ca31db374403.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F623185667181420597%2F&docid=dV1AWjIO-nr8cM&tbnid=2S8GIxhnR6iBwM&vet=12ahUKEwjNzKKF_8-OAxURnK8BHedICT8QM3oECCQQAA..i&w=720&h=988&hcb=2&ved=2ahUKEwjNzKKF_8-OAxURnK8BHedICT8QM3oECCQQAA' alt='Stitch' width='80%' height='80%' />" }, link: 'https://security-program.fhsh.taipei'}
     ]
   }
 })
