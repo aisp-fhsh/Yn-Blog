@@ -1,8 +1,8 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: "新手友善的 Vitepress 模板 🐥",
-  description: "👶👶 提供新手快速建立的 Vitepress 模板 👶👶",
+  title: "Yn's Blog",
+  description: "歡迎來到我的地盤",
   base: "/Yn-Blog/", // 👈👈👈 這個非常需要設定喔！！
   themeConfig: {
     
